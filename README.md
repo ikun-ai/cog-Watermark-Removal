@@ -21,7 +21,11 @@ git clone https://github.com/ikun-ai/cog-Watermark-Removal
 ```
 cd cog-Watermark-Removal
 ```
-3. Make sure cog and docker are installed
+
+3. Download the model dirs using this [link](https://drive.google.com/drive/folders/1xRV4EdjJuAfsX9pQme6XeoFznKXG0ptJ) and put it under model/ (rename checkpoint.txt to checkpoint because sometimes google drive automatically adds .txt after download)
+
+4. Make sure cog and docker are installed
+
 
 ## Usage
 
